@@ -1,0 +1,1 @@
+Adds a help icon, which launches a modal window containing help information.
